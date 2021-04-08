@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadingFiles", "ConsoleApp1\ReadingFiles.csproj", "{7AE29D1C-3791-41B2-B3AF-BF529AC86946}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReadingFiles", "ConsoleApp1\ReadingFiles.csproj", "{7AE29D1C-3791-41B2-B3AF-BF529AC86946}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Functions", "Functions\Functions.csproj", "{44514058-E04D-479A-B139-9A3427F6F6B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{7AE29D1C-3791-41B2-B3AF-BF529AC86946}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7AE29D1C-3791-41B2-B3AF-BF529AC86946}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7AE29D1C-3791-41B2-B3AF-BF529AC86946}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44514058-E04D-479A-B139-9A3427F6F6B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44514058-E04D-479A-B139-9A3427F6F6B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44514058-E04D-479A-B139-9A3427F6F6B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44514058-E04D-479A-B139-9A3427F6F6B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
